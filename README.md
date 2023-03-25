@@ -20,3 +20,4 @@ set FLASK_APP=app.py
 ```
 flask run
 ```
+![image](https://user-images.githubusercontent.com/118508794/227743130-1c46287f-91dd-48aa-b775-9eab8b43d616.png)
